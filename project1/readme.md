@@ -4,8 +4,8 @@
 The following is subject to the Honor Code at Emory University
 
 The program implements a game of black jack with the following rules:
-1) deals two card randomly to player and itself
-2) player can choose to hit or stand until bust (over 21)
+1) Deals two card randomly to player and itself
+2) Player can choose to hit or stand until bust (over 21)
 3) The dealer is programed to do the following:
       a) if less than 17    => hit
       b) if 17              => stand
